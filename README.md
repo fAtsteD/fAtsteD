@@ -1,23 +1,43 @@
-## I'm developer
+## I'm Developer
 
-- 🌱 I’m currently learning everything
-- 🥅 I want to contribute to Open Source projects
-- 🔎 I always learn webdeveloper things
-- 🛠️ I always learn programming languages and tools
-- 📓 I learn data science
+### 💪 I know
 
-### Languages and Tools:
+-   OOP (like it)
+-   Patters (use them, want to be always contribute easy)
+-   Quality of code (someone can undersant my cody lightly)
+-   Relational DB (MySQL, PostgreSQL)
+-   Documented DB (MongoDB)
+-   GIT
+-   PHP frameworks: Yii2, Laravel, Symfony
+-   CMS (create pages, editional modules etc.): WordPres, SilverStripe
+-   Data Science with Python (Pandas)
+-   Write C/C++ code for Arduinos
+-   Docker (more easy develop and work with this)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### 🌱 Learning
+
+-   New technologies JavaScript/TypeScript
+-   Data Science features
+-   Kubernetes
+
+### 🛠️‍ Always
+
+-   Improve my productivity skills (VS Code, scripting in Python)
+-   Learn programming languages and tools
+-   Search new technologies for learning
+-   Read books
+-   Watch works of another developers
+-   Pass courses in different theme
+
+### 🏗 My workspace
+
+-   Linux base (Ubuntu)
+-   VS Code (it is the best for all)
+-   Beaver
+-   Postman
+
+### 🗣 Languages
+
+-   Ukrainian (native)
+-   Russial (native)
+-   English (Upper-Intemediate)
